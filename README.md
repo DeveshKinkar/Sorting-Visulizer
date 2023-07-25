@@ -1,38 +1,9 @@
 # Sorting-Visulizer
 A sorting algorithm is an algorithm that puts the elements of a list in a certain order. While there are a large number of sorting algorithms, in practical implementations a few algorithms predominate. In this implementation of sorting visualizer, we'll be looking at some of these sorting algorithms and visually comprehend their working. The sorting algorithms covered here are Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, Quick Sort and Heap Sort. The list size is fixed to 130 elements. You can randomize the list and select any type of sorting algorithm to call on the list from the given options. Here, all sorting algorithms will sort the elements in ascending order. The sorting time being visualized for an algorithm is not exactly same as their actual time complexities. The relatively faster algorithms like Merge Sort, etc. have been delayed so that they could be properly visualized.
 
-A web application showcasing the inner workings of sorting algorithms.
 
-Implemented algorithms:
-1) Bubble sort
-2) Selection sort
-3) Insertion sort
-4) Merge sort
-5) Quick sort
-6) Heap sort
-
-Features:
-1) Colored representation of step being executed.
-  1.1) Blue:default
-  1.2) Yellow: Being compared
-  1.3) Red: Identified as in incorrect position and to be moved
-  1.4) Green: In correct position
-2) 3 Controls for visualizations
-  2.1) Speed of visualization (5 speed levels)
-  2.2) Data size ()
-  2.3) Generation of new data (Randomly generate new data).
-4) Time and Space complexity of algorithm being visualized.
-
-# Controls:-
- WARNING: Giving repetitive commands may cause latency and the visualizer may behave unexpectedly. Please give a new command only after the current command's execution is done.
-
-Available Controls inside Sorting Visualizer:-
-
-->Use 0 to Generate a different randomized list.
-->Use 1 to start Selection Sort Algorithm.
-->Use 2 to start Insertion Sort Algorithm.
-->Use 3 to start Bubble Sort Algorithm.
-->Use 4 to start Merge Sort Algorithm.
-->Use 5 to start Quick Sort Algorithm.
-->Use 6 to start Heap Sort Algorithm.
-->Use q to exit out of Sorting Visualizer.
+<img width="1440" alt="Screenshot 2023-07-25 at 11 53 02 AM" src="https://github.com/DeveshKinkar/Sorting-Visulizer/assets/133273192/75eaa7c1-7839-400b-8a3a-4fc149c27ba8">
+<img width="1440" alt="Screenshot 2023-07-25 at 11 51 54 AM" src="https://github.com/DeveshKinkar/Sorting-Visulizer/assets/133273192/5bf289de-95bf-4a44-bcef-709a36fe7ccf">
+<img width="1440" alt="Screenshot 2023-07-25 at 11 53 48 AM" src="https://github.com/DeveshKinkar/Sorting-Visulizer/assets/133273192/9341080f-205d-4eda-8069-1c64e378afb3">
+<img width="1440" alt="Screenshot 2023-07-25 at 11 50 17 AM" src="https://github.com/DeveshKinkar/Sorting-Visulizer/assets/133273192/49dfeef8-bfb4-4bdc-b9bd-4e2cc1dfbe89">
+<img width="1440" alt="Screenshot 2023-07-25 at 11 52 41 AM" src="https://github.com/DeveshKinkar/Sorting-Visulizer/assets/133273192/094b13e0-b227-4e36-91e5-75276d6eac3d">
